@@ -1,0 +1,44 @@
+:root {
+
+    /* === Cover / Landing area === */
+    --cover-text-color: #37501a;
+    --highlight: #86c440;
+    --highlight-contrast: var(--cover-text-color);
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: white 0px 0px 7px;
+
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #9fd067;
+
+
+    /* === Alternating content (post) sections  === */
+    --section-light-text-color: #3a4145;
+    --section-light-bg-color: #f2efe8;
+
+    --section-dark-text-color: var(--section-light-bg-color);
+    --section-dark-bg-color: #22343a;
+
+    --section-uni-quote: grey;
+    --section-uni-code-bg-color: #e0ded7;
+
+    /* === Single pages=== */
+    --single-page-text-color: var(--section-light-text-color);
+    --single-page-bg-color: var(--section-light-bg-color);
+
+    /* === Footer === */
+    --footer-color-background: #22343a;
+    --footer-color: #bbc7cc;
+
+    /* === Lists === */
+    --ul-li-icon: fa-asterisk;
+}
+
+#about .post-content img {
+    margin: 0 1.5rem 1rem 0;
+    width: 160px;
+    float: left;
+}

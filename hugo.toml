@@ -1,0 +1,61 @@
+baseURL = 'https://shortconsulting.io/'
+languageCode = 'en-us'
+title = 'Chris Short Consulting LLC'
+theme = ["github.com/chris-short/hugo-scroll"]
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageCode = 'en-us'
+    contentDir = 'content/en'
+
+[module]
+[[module.imports]]
+    path = 'github.com/chris-short/hugo-scroll'
+
+disableKinds = ["section", "taxonomy", "term", "RSS"]
+
+[params]
+    language_menu = false
+    show_current_lang = false
+    copyright = "© 2026 Chris Short Consulting LLC. All rights reserved."
+    hidedesignbyline = true
+    image_options = "webp q85 lanczos photo"
+    combine_page_and_site_title = false
+    showContactIcons = true
+    showFooterLinks = true
+
+[params.meta]
+    keywords = "Linux, Kubernetes, Ansible, Open Source, Technical Marketing, Product Marketing, Developer Advocate"
+
+[[params.contacts]]
+    label = "GitHub"
+    value = "github.com/chris-short/"
+    url = "https://github.com/chris-short"
+    icon = "fa-brands fa-github"
+
+[[params.contacts]]
+    label = "LinkedIn"
+    value = "linkedin.com/in/thechrisshort"
+    url = "https://www.linkedin.com/in/thechrisshort"
+    icon = "fa-brands fa-linkedin"
+
+[[params.contacts]]
+    label = "Bluesky"
+    value = "bsky.app/profile/chrisshort.net"
+    url = "https://bsky.app/profile/chrisshort.net"
+    icon = "fa-brands fa-bluesky"
+
+[[params.contacts]]
+    label = "X"
+    value = "x.com/ChrisShort"
+    url = "https://x.com/ChrisShort"
+    icon = "fa-brands fa-x-twitter"
+
+[[params.contacts]]
+    label = "Mastodon"
+    value = "hachyderm.io/@ChrisShort"
+    url = "https://hachyderm.io/@ChrisShort"
+    icon = "fa-brands fa-mastodon"
+

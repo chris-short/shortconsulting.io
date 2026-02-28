@@ -1,0 +1,86 @@
+<style>
+  .contact-form {
+    max-width: 500px;
+    margin: 1rem 0;
+  }
+  .contact-form .form-group {
+    margin-bottom: 1.25rem;
+  }
+  .contact-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 0.65rem 0.75rem;
+    border: 2px solid var(--color-text);
+    border-radius: 4px;
+    background: #ffffff;
+    color: #3a4145;
+    font-size: 1.25rem;
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    outline: none;
+    border-color: var(--highlight);
+  }
+  .contact-form textarea {
+    min-height: 140px;
+    resize: vertical;
+  }
+  .contact-form .submit-btn {
+    background-color: var(--highlight);
+    color: var(--highlight-contrast);
+    padding: 12px 36px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.5rem;
+    font-family: "Oswald", sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: opacity 0.2s;
+    margin-top: 0.5rem;
+  }
+  .contact-form .submit-btn:hover {
+    opacity: 0.8;
+  }
+</style>
+
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+    <input type="hidden" name="access_key" value="4382ac02-582b-42b5-bd35-006a46d24cbf">
+
+    <div class="form-group">
+        <label for="name">Name *</label>
+        <input type="text" id="name" name="name" placeholder="Your name" required>
+    </div>
+
+    <div class="form-group">
+        <label for="org">Organization *</label>
+        <input type="text" id="org" name="org" placeholder="Your organization" required>
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email *</label>
+        <input type="email" id="email" name="email" placeholder="your@email.com" required>
+    </div>
+
+    <div class="form-group">
+        <label for="message">Message *</label>
+        <textarea id="message" name="message" placeholder="Your message..." required></textarea>
+    </div>
+
+    <div class="form-group">
+        <div class="h-captcha" data-captcha="true"></div>
+    </div>
+
+    <button type="submit" class="submit-btn">Send Message</button>
+</form>
+
+<script src="https://web3forms.com/client/script.js" async defer></script>
