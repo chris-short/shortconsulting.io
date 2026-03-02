@@ -17,6 +17,7 @@ defaultContentLanguageInSubdir = false
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
+    favicon = "images/favicon-32x32.png"
     language_menu = false
     show_current_lang = false
     copyright = "© 2026 Chris Short Consulting LLC. All rights reserved."
