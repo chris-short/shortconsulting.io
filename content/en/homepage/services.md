@@ -51,3 +51,14 @@ Showing up at a conference with a booth and a t-shirt launcher is not a communit
 I help you design and execute event programs that matter: conference track leadership, Day 0 or co-located event production, speaker programs, and community initiatives that extend beyond the conference floor.
 
 I've led DevOpsDays events, produced KubeCon Day 0 events, and run the Kubernetes track at AWS re:Invent 2023 with 50+ speakers. I know how to build an event presence that people remember for the right reasons.
+
+---
+
+##### Speaking & Thought Leadership
+
+A speaker with a title and a deck is easy to find. A Key Opinion Leader who has actually built the things they're talking about — and has the community credibility to back it up — is not.
+
+I'm available for conference keynotes, panel discussions, podcasts, webinars, and live streams covering DevOps, Kubernetes, cloud native, open source strategy, developer relations, and the human side of technology. I also bring perspective on organizational transformation, burnout, and what the military taught me about building resilient systems and teams.
+
+I've spoken at KubeCon + CloudNativeCon, AWS re:Invent, Red Hat Summit, GopherCon, ChefConf, and DevOpsDays events across North America. I've been featured on Command Line Heroes, Screaming in the Cloud, and Tech Strong Group. I don't just speak about this ecosystem — I've spent decades working inside it.
+
