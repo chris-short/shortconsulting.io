@@ -61,4 +61,3 @@ A speaker with a title and a deck is easy to find. A Key Opinion Leader who has 
 I'm available for conference keynotes, panel discussions, podcasts, webinars, and live streams covering DevOps, Kubernetes, cloud native, open source strategy, developer relations, and the human side of technology. I also bring perspective on organizational transformation, burnout, and what the military taught me about building resilient systems and teams.
 
 I've spoken at KubeCon + CloudNativeCon, AWS re:Invent, Red Hat Summit, GopherCon, ChefConf, and DevOpsDays events across North America. I've been featured on Command Line Heroes, Screaming in the Cloud, and Tech Strong Group. I don't just speak about this ecosystem — I've spent decades working inside it.
-
