@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-![Chris Short](/images/chris-short-headshot-nov-2025-circle.webp)
+![Chris Short headshot](/images/chris-short-headshot-nov-2025-circle.webp)
 
 ##### 30 Years Turning Complex Systems Into Competitive Advantage
 
