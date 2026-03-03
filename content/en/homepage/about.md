@@ -10,7 +10,7 @@ header_menu: true
 
 I'm **Chris Short** — a disabled veteran, open source practitioner, and seasoned technical leader with three decades of experience across systems engineering, security, DevOps, and cloud native technology.
 
-I have led Open Source Program Offices, developer advocacy for multiple projects and products, including Ansible, Kubernetes, OpenShift, Finch, and Valkey; have led multiple events from DevOpsDays, KubeCon Day 0 events, and re:Invent; hosted and produced hundreds of hours of video content for organizations like Red Hat and Amazon Web Services.
+I have led Open Source Program Offices, developer advocacy for multiple projects and products, including Ansible, Kubernetes, OpenShift, Finch, and Valkey; led multiple events from DevOpsDays, KubeCon Day 0 events, and re:Invent; hosted and produced hundreds of hours of video content for organizations like Red Hat and Amazon Web Services.
 
 ---
 
