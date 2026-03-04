@@ -1,0 +1,65 @@
+/* Open Sans 400 */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/open-sans-v27-latin-regular.woff2') format('woff2'),
+       url('../webfonts/open-sans-v27-latin-regular.woff') format('woff');
+}
+
+/* Open Sans 700 */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/open-sans-v27-latin-700.woff2') format('woff2'),
+       url('../webfonts/open-sans-v27-latin-700.woff') format('woff');
+}
+
+/* Open Sans Condensed 700 */
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/open-sans-condensed-v21-latin-700.woff2') format('woff2'),
+       url('../webfonts/open-sans-condensed-v21-latin-700.woff') format('woff');
+}
+
+/* Oswald 300 */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/oswald-v40-latin-300.woff2') format('woff2'),
+       url('../webfonts/oswald-v40-latin-300.woff') format('woff');
+}
+
+/* Roboto Slab 400 */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/roboto-slab-v16-latin-regular.woff2') format('woff2'),
+       url('../webfonts/roboto-slab-v16-latin-regular.woff') format('woff');
+}
+
+/* Roboto Slab 700 */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('../webfonts/roboto-slab-v16-latin-700.woff2') format('woff2'),
+       url('../webfonts/roboto-slab-v16-latin-700.woff') format('woff');
+}
