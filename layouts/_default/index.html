@@ -92,7 +92,7 @@
 	{{ end }}
 
         <div id="site-head-content" class="inner">
-	    {{ with resources.Get .Params.header_logo }}<a href="/"><img id="blog-logo" alt="{{ $.Params.header_logo_alt | default "Logo for Chris Short Consulting LLC — a dark green background with a geometric upward-pointing triangle rendered in light green with diagonal hatching, above the text \"Chris Short Consulting LLC\"" }}" src="{{ .RelPermalink }}" /></a>{{ end }}
+	    {{ with resources.Get .Params.header_logo }}{{ $logo := .Resize "520x webp q85 lanczos" }}<a href="/"><img id="blog-logo" alt="{{ $.Params.header_logo_alt | default "Logo for Chris Short Consulting LLC — a dark green background with a geometric upward-pointing triangle rendered in light green with diagonal hatching, above the text \"Chris Short Consulting LLC\"" }}" src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" /></a>{{ end }}
 
             {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
               {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
