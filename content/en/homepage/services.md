@@ -6,7 +6,7 @@ header_menu: true
 
 Whether interim, fractional, or via retainer, I can help your company excel in these areas...
 
-##### Open Source Strategy & Program Office Advisory
+### Open Source Strategy & Program Office Advisory
 
 Open source software has an economic value of trillions of dollars. Most organizations are consuming open source without a strategy, creating legal exposure, missing out on contribution opportunities, and leaving community goodwill on the table.
 
@@ -14,7 +14,7 @@ I help you manage your investment in open source by building or maturing an Open
 
 ---
 
-##### Developer Relations & Advocacy
+### Developer Relations & Advocacy
 
 Hiring a DevRel team without a clear strategy is an expensive way to produce content nobody reads. A program that works requires structure, a real community feedback loop, collaboration with other teams, and someone who has run it at scale.
 
@@ -24,7 +24,7 @@ I've built and led developer advocacy at Amazon Web Services and Red Hat, coveri
 
 ---
 
-##### Kubernetes & Cloud Native Advisory
+### Kubernetes & Cloud Native Advisory
 
 The cloud native ecosystem moves fast, and the wrong tooling decisions are expensive to undo. Most teams don't need another vendor pitch — they need an independent perspective grounded in how these systems actually work in production.
 
@@ -34,7 +34,7 @@ As an active Kubernetes contributor, former CNCF Ambassador, and frequent KubeCo
 
 ---
 
-##### Technical Content & Media
+### Technical Content & Media
 
 Producing content at volume is easy. Producing content that builds genuine trust with a technical audience is not, and most marketing teams don't have someone who has lived inside that audience.
 
@@ -44,7 +44,7 @@ I've produced 700+ hours of video content at Red Hat, co-founded EKS.news at AWS
 
 ---
 
-##### Event & Community Programs
+### Event & Community Programs
 
 Showing up at a conference with a booth and a t-shirt launcher is not a community strategy. Organizations that earn lasting credibility do it by adding genuine value to the events their audience cares about.
 
@@ -54,7 +54,7 @@ I've led DevOpsDays events, produced KubeCon Day 0 events, and run the Kubernete
 
 ---
 
-##### Speaking & Thought Leadership
+### Speaking & Thought Leadership
 
 A speaker with a title and a deck is easy to find. A Key Opinion Leader who has actually built the things they're talking about — and has the community credibility to back it up — is not.
 

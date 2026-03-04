@@ -17,6 +17,7 @@ defaultContentLanguageInSubdir = false
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
+    description = "Chris Short Consulting LLC — 30 years of expertise in Developer Advocacy, Technical Marketing, and Open Source strategy. Specializing in Kubernetes, cloud native, and DevOps."
     favicon = "images/favicon-32x32.png"
     language_menu = false
     show_current_lang = false

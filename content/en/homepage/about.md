@@ -6,7 +6,7 @@ header_menu: true
 
 ![Chris Short headshot](/images/chris-short-headshot-nov-2025-circle.webp)
 
-##### 30 Years Turning Complex Systems Into Competitive Advantage
+### 30 Years Turning Complex Systems Into Competitive Advantage
 
 I'm **Chris Short** — a disabled veteran, open source practitioner, and seasoned technical leader with three decades of experience across systems engineering, security, DevOps, and cloud native technology.
 
