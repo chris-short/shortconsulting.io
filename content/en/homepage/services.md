@@ -8,7 +8,7 @@ Whether interim, fractional, or via retainer, I can help your company excel in t
 
 ##### Open Source Strategy & Program Office Advisory
 
-Open source software has an economic value of trillions of dollars. Most organizations are consuming open source without a strategy - creating legal exposure, missing contribution opportunities, and leaving community goodwill on the table.
+Open source software has an economic value of trillions of dollars. Most organizations are consuming open source without a strategy, creating legal exposure, missing out on contribution opportunities, and leaving community goodwill on the table.
 
 I help you manage your investment in open source by building or maturing an Open Source Program Office that actually functions: license compliance, contribution policy, repository governance, and metrics that mean something to leadership.
 
